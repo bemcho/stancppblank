@@ -1,0 +1,1 @@
+/usr/bin/c++   -v -m64  -Weverything  -Wno-c++98-compat -Wno-global-constructors -Wno-exit-time-destructors -Wno-padded -Wno-missing-prototypes -Wno-missing-variable-declarations -g   CMakeFiles/stansandbox.dir/src/main.cpp.o  -o stansandbox -rdynamic -lpthread 

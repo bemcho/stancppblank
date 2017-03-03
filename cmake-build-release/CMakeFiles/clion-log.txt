@@ -1,0 +1,7 @@
+/home/bemcho/Apps/clion-2016.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/bemcho/Projects/sandbox
+-- Boost version: 1.63.0
+-- Failed to find STAN - Could not find STAN include directory, set STAN_INCLUDE_DIR to directory containing version.hpp
+-- Could NOT find STAN (missing:  STAN_INCLUDE_DIRS) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bemcho/Projects/sandbox/cmake-build-release
